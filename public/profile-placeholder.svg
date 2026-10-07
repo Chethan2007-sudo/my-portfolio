@@ -1,0 +1,8 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" rx="40" fill="#0F172A"/>
+  <circle cx="300" cy="220" r="120" fill="#E2E8F0"/>
+  <circle cx="300" cy="200" r="96" fill="#94A3B8"/>
+  <path d="M170 470C195 385 245 330 300 330C355 330 405 385 430 470" fill="#E2E8F0"/>
+  <path d="M230 180C230 120 265 80 300 80C335 80 370 120 370 180V210C370 270 335 310 300 310C265 310 230 270 230 210V180Z" fill="#0F172A" fill-opacity="0.2"/>
+  <text x="300" y="520" text-anchor="middle" fill="#F8FAFC" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="700">YOUR PHOTO</text>
+</svg>
